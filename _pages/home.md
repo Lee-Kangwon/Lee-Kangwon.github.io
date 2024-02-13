@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
 ---
 
 # Test Post page
