@@ -271,7 +271,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_post/2024-02-13-test-pose.md"
+      path: "_post"
       type: posts
     values:
       layout: single
