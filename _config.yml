@@ -110,14 +110,14 @@ author:
   location         : "Seoul, Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "leekw@dgu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:leekw@dgu.ac.kr"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=ko&user=OqqaNNkAAAAJ"
     - label: "ORCID"
-      icon: "fas fa-fw fa-link"
+      icon: "fa fa-orcid"
       url: "https://orcid.org/0000-0002-1444-5268"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
