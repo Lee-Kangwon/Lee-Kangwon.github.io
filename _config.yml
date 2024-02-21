@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kangwon Lee"
-  avatar           : "leekw_bio.png"
+  avatar           : "leekw_bio.jpg"
   bio              : "Ph.D. Candidate at Dongguk University"
   location         : "Seoul, Republic of Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=ko&user=OqqaNNkAAAAJ"
   email            : "leekw@dgu.ac.kr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-1444-5268"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/L_Kangwon"
