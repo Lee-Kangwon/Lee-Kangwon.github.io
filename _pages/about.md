@@ -11,3 +11,7 @@ redirect_from:
 I am a Ph.D. Candidate majoring in Mechanical Engineering at [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/). 
 
 My interested research areas include **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Human Robot Interaction**.
+
+Publications
+===
+
