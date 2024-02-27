@@ -16,5 +16,5 @@ Publications
 ===
 
 ![Dextouc_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
-DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity <\br>
+DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity <br>
 **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim
