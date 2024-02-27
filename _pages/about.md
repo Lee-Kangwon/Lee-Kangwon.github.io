@@ -19,6 +19,6 @@ Publications
 
 <img
   src="images\teaser_video_for_twitter.gif"
-  width="10%"
-  height="10%"
+  width="30%"
+  height="30%"
 />
