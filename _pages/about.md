@@ -17,14 +17,16 @@ Publications
 
 <!-- ![Dextouc_teaser](images\teaser_video_for_twitter.gif) -->
 
-<div class=pull-left>
-<img
+<!-- <img
   src="images\teaser_video_for_twitter.gif"
   width="30%"
   height="30%"
 />
-</div>
-<div class=pull-right>
 #### DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
+**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim -->
+
+<p align="left">
+  <img src="images\teaser_video_for_twitter.gif" width="30%" height="30%">
+  DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
 **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim
-</div>
+</p>
