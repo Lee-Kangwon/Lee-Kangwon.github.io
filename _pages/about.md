@@ -15,22 +15,6 @@ My interested research areas include **Robotics**, **Robot Learning**, **Reinfor
 Publications
 ===
 
-<!-- ![Dextouc_teaser](images\teaser_video_for_twitter.gif) -->
-
-<!-- <img
-  src="images\teaser_video_for_twitter.gif"
-  width="30%"
-  height="30%"
-/>
-#### DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
-**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim -->
-
-<p align="left">
-  <img src="images\teaser_video_for_twitter.gif" width="30%" height="30%">
-  DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
-**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim
-</p>
-
 ![Dextouc_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
-DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
+DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity <\br>
 **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim
