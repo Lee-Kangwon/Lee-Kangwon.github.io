@@ -14,6 +14,16 @@ My interested research areas include **Robotics**, **Robot Learning**, **Reinfor
 
 Publications
 ======
+<div class=pull-left>
+![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
+</div>
+<div class=pull-right>
+**<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
+**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
+arXiv, 2024 <br>
+[\[arXiv\]](https://arxiv.org/abs/2401.12496) [\[project page\]](https://lee-kangwon.github.io/dextouch/) [\[video\]](https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk)
+</div>
+
 <div class="container">
 ![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
 **<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
