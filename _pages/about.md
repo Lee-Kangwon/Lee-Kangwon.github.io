@@ -1,5 +1,4 @@
 ---
-classes: wide
 permalink: /
 title: "Intro"
 excerpt: "About me"
@@ -14,7 +13,7 @@ I am a Ph.D. Candidate majoring in Mechanical Engineering at [Dongguk University
 My interested research areas include **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Human Robot Interaction**.
 
 Publications
-===
+------
 
 ![Dextouc_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
 DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity <br>
