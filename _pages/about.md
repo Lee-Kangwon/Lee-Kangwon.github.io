@@ -22,3 +22,5 @@ Publications
   width="30%"
   height="30%"
 />
+#### DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity
+**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim
