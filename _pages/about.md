@@ -17,7 +17,7 @@ Publications
 ======
 
 <div style="overflow: hidden; clear: both;">
-    <img src="images\teaser_video_for_twitter.gif" alt="Dextouch_teaser" style="float: left; margin-right: 10px; width: 25%">
+    <img src="images\teaser_video_for_twitter.gif" alt="Dextouch_teaser" style="float: left; margin-right: 10px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</b></span> <br>
       <b>Kang-Won Lee*</b>, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
@@ -27,7 +27,7 @@ Publications
 </div>
 <br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\visual_tactile.avif" alt="visual_tactile" style="float: left; margin-right: 10px; width: 25%">
+    <img src="images\visual_tactile.avif" alt="visual_tactile" style="float: left; margin-right: 10px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</b></span> <br>
       Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, <b>Kang-Won Lee</b>, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
@@ -37,7 +37,7 @@ Publications
 </div>
 <br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; width: 25%">
+    <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Vision-based interaction force estimation for robot grip motion without tactile/force sensor</b></span> <br>
       Dea-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
@@ -47,7 +47,7 @@ Publications
 </div>
 <br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\deep_touch.jpg" alt="deep_touch" style="float: left; margin-right: 10px; width: 25%">
+    <img src="images\deep_touch.jpg" alt="deep_touch" style="float: left; margin-right: 10px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</b></span> <br>
       <b>Kang-Won Lee</b>, Seung-Chan Kim, Soo-Chul Lim <br>
