@@ -15,57 +15,48 @@ My interested research areas include **Robotics**, **Robot Learning**, **Reinfor
 Publications
 ======
 
-<!-- <figure style="width: 213px" class="align-left">
-  <img src="images\teaser_video_for_twitter.gif">
-  **<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
-  **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
-  arXiv, 2024 <br>
-</figure> -->
-
 <div style="overflow: hidden; clear: both;">
-    <img src="images\teaser_video_for_twitter.gif" alt="" style="float: left; margin-right: 10px; width: 30%">
+    <img src="images\teaser_video_for_twitter.gif" alt="Dextouch_teaser" style="float: left; margin-right: 10px; width: 30%">
     <div style="margin-left: 120px;">
       <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
-      Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
+      <b>Kang-Won Lee*</b>, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
       arXiv, 2024 <br>
       <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
     </div>
 </div>
 
+<br>
+
 <div style="overflow: hidden; clear: both;">
-    <img src="images\teaser_video_for_twitter.gif" alt="" style="float: left; margin-right: 10px; width: 30%">
+    <img src="images\visual_tactile.avif" alt="visual_tactile" style="float: left; margin-right: 10px; width: 30%">
     <div style="margin-left: 120px;">
-      <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
-      Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
-      arXiv, 2024 <br>
-      <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
+      <span style="color:#003566">Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</span> <br>
+      Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, <b>Kang-Won Lee</b>, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
+      International Conference on Robotics and Automation (ICRA), 2024 <br>
+      <a href="https://arxiv.org/abs/2312.01853">[arXiv]</a> <a href="https://yingyuan0414.github.io/visuotactile/">[project page]</a>
     </div>
 </div>
 
+<br>
 
-<!-- ![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
-**<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
-**Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
-arXiv, 2024 <br>
-[\[arXiv\]](https://arxiv.org/abs/2401.12496) [\[project page\]](https://lee-kangwon.github.io/dextouch/) [\[video\]](https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk)
+<div style="overflow: hidden; clear: both;">
+    <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; width: 30%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566">Vision-based interaction force estimation for robot grip motion without tactile/force sensor</span> <br>
+      Dea-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
+      Expert Systems with Applications 211: 118441, 2023 <br>
+      <a href="https://doi.org/10.1016/j.eswa.2022.118441">[paper]</a>
+    </div>
+</div>
 
+<br>
 
-![visual_tactile](images\visual_tactile.avif){: width="213" height="120"}{: .align-left}
-**<span style="color:#003566">Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</span>** <br>
-Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, **Kang-Won Lee**, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
-International Conference on Robotics and Automation (ICRA), 2024 <br>
-[\[arXiv\]](https://arxiv.org/abs/2312.01853) [\[project page\]](https://yingyuan0414.github.io/visuotactile/)
-
-
-![force_estimation](images\ESwA_force_estimation.jpg){: width="213" height="120"}{: .align-left}
-**<span style="color:#003566">Vision-based interaction force estimation for robot grip motion without tactile/force sensor</span>** <br>
-Dea-Kwan Ko, **Kang-Won Lee**, Dong Han Lee, Soo-Chul Lim <br>
-Expert Systems with Applications 211: 118441, 2023 <br>
-[\[paper\]](https://doi.org/10.1016/j.eswa.2022.118441)
-
-
-![deep_touch](images\deep_touch.jpg){: width="213" height="120"}{: .align-left}
-**<span style="color:#003566">DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</span>** <br>
-**Kang-Won Lee**, Seung-Chan Kim, Soo-Chul Lim<br>
-IEEE Sensors Journal 22.9: 8924-8932, 2022 <br>
-[\[paper\]](https://doi.org/10.1109/JSEN.2022.3163664) -->
+<div style="overflow: hidden; clear: both;">
+    <img src="images\deep_touch.jpg" alt="deep_touch" style="float: left; margin-right: 10px; width: 30%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566">DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</span> <br>
+      <b>Kang-Won Lee</b>, Seung-Chan Kim, Soo-Chul Lim <br>
+      IEEE Sensors Journal 22.9: 8924-8932, 2022 <br>
+      <a href="https://doi.org/10.1109/JSEN.2022.3163664">[paper]</a>
+    </div>
+</div>
