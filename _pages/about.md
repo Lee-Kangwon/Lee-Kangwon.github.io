@@ -22,29 +22,26 @@ Publications
   arXiv, 2024 <br>
 </figure> -->
 
-<div>
-  <div style="float: left">
-    <img src="images\teaser_video_for_twitter.gif" style="width: 213px"/>
-  </div>
-  <p>
-    <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
-    Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
-    arXiv, 2024 <br>
-    [\[arXiv\]](https://arxiv.org/abs/2401.12496) [\[project page\]](https://lee-kangwon.github.io/dextouch/) [\[video\]](https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk)
-  </p>
+<div style="overflow: hidden; clear: both;">
+    <img src="images\teaser_video_for_twitter.gif" alt="" style="float: left; margin-right: 10px; width: 30%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
+      Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
+      arXiv, 2024 <br>
+      <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
+    </div>
 </div>
 
-<div>
-  <div style="float: left">
-    <img src="images\teaser_video_for_twitter.gif" style="width: 213px"/>
-  </div>
-  <p>
-    <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
-    Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
-    arXiv, 2024 <br>
-    [\[arXiv\]](https://arxiv.org/abs/2401.12496) [\[project page\]](https://lee-kangwon.github.io/dextouch/) [\[video\]](https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk)
-  </p>
+<div style="overflow: hidden; clear: both;">
+    <img src="images\teaser_video_for_twitter.gif" alt="" style="float: left; margin-right: 10px; width: 30%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span> <br>
+      Kang-Won Lee*, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
+      arXiv, 2024 <br>
+      <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
+    </div>
 </div>
+
 
 <!-- ![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
 **<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
