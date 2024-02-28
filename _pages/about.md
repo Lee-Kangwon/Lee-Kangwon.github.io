@@ -22,7 +22,7 @@ Publications
   arXiv, 2024 <br>
 </figure> -->
 
-<div>
+<!-- <div>
   <div style="float: left">
     <img src="images\teaser_video_for_twitter.gif" style="width: 213px"/>
   </div>
@@ -31,9 +31,9 @@ Publications
     **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
     arXiv, 2024 <br>
   </p>
-</div>
+</div> -->
 
-<!-- ![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
+![Dextouch_teaser](images\teaser_video_for_twitter.gif){: width="213" height="120"}{: .align-left}
 **<span style="color:#003566">DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</span>** <br>
 **Kang-Won Lee***, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
 arXiv, 2024 <br>
@@ -58,4 +58,4 @@ Expert Systems with Applications 211: 118441, 2023 <br>
 **<span style="color:#003566">DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</span>** <br>
 **Kang-Won Lee**, Seung-Chan Kim, Soo-Chul Lim<br>
 IEEE Sensors Journal 22.9: 8924-8932, 2022 <br>
-[\[paper\]](https://doi.org/10.1109/JSEN.2022.3163664) -->
+[\[paper\]](https://doi.org/10.1109/JSEN.2022.3163664)
