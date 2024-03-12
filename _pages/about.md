@@ -25,9 +25,9 @@ Publications
       <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
     </div>
 </div>
-<br>
+
 <div style="overflow: hidden; clear: both;">
-    <img src="images\visual_tactile.avif" alt="visual_tactile" style="float: left; margin-right: 10px; width: 20%">
+    <img src="images\visual_tactile.avif" alt="visual_tactile" style="float: left; margin-right: 10px; margin-bottom: 30px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</b></span> <br>
       Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, <b>Kang-Won Lee</b>, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
@@ -37,7 +37,7 @@ Publications
 </div>
 <br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; width: 20%">
+    <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; margin-bottom: 30px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Vision-based interaction force estimation for robot grip motion without tactile/force sensor</b></span> <br>
       Dea-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
@@ -47,7 +47,7 @@ Publications
 </div>
 <br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\deep_touch.jpg" alt="deep_touch" style="float: left; margin-right: 10px; width: 20%">
+    <img src="images\deep_touch.jpg" alt="deep_touch" style="float: left; margin-right: 10px; margin-bottom: 30px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</b></span> <br>
       <b>Kang-Won Lee</b>, Seung-Chan Kim, Soo-Chul Lim <br>
