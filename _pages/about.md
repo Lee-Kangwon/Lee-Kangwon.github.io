@@ -59,9 +59,9 @@ Publications
       <br>
     </div>
 </div>
-
+<br>
 <div style="overflow: hidden; clear: both;">
-    <img src="images\proprioception.jpg" alt="proprioception.jpg" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
+    <img src="images\proprioception.jpg" alt="proprioception" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Simple and Reliable Position Sense Assessment Under Different External Torques: Toward Developing a Post-Stroke Proprioception Evaluation Device</b></span> <br>
       <b>Kang-Won Lee</b>, Sang Hoon Kang, Soo-Chul Lim <br>
@@ -72,13 +72,13 @@ Publications
 </div>
 
 <div style="overflow: hidden; clear: both;">
-    <img src="images\proprioception.jpg" alt="proprioception.jpg" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
+    <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
       <b>Kang-Won Lee</b>, Dae-Kwan Ko, Soo-Chul Lim <br>
       IEEE Robotics and Automation Letters 6(4): 6640-6646, 2021 <br>
-      International Conference on Intelligent Robots and Systems (IROS), 2021 <br>
-      <span style="color:#003566"><b>Oral Presentation</b></span> <br>
+      International Conference on Intelligent Robots and Systems <b>(IROS)<b>, 2021 <br>
+      <span style="color:#d90429"><b>Oral Presentation</b></span> <br>
       <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
       <br>
     </div>
