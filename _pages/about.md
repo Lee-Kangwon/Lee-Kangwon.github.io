@@ -17,7 +17,7 @@ Publications
 ======
 
 <div style="overflow: hidden; clear: both;">
-    <img src="images\teaser_video_for_twitter.gif" alt="Dextouch_teaser" style="float: left; margin-right: 10px; width: 20%">
+    <img src="images\teaser_video_for_twitter.gif" alt="Dextouch_teaser" style="float: left; margin-right: 10px; margin-bottom: 30px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</b></span> <br>
       <b>Kang-Won Lee*</b>, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
