@@ -23,6 +23,7 @@ Publications
       <b>Kang-Won Lee*</b>, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
       arXiv, 2024 <br>
       <a href="https://arxiv.org/abs/2401.12496">[arXiv]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
+      <br>
     </div>
 </div>
 
@@ -33,6 +34,7 @@ Publications
       Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, <b>Kang-Won Lee</b>, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
       International Conference on Robotics and Automation (ICRA), 2024 <br>
       <a href="https://arxiv.org/abs/2312.01853">[arXiv]</a> <a href="https://yingyuan0414.github.io/visuotactile/">[project page]</a>
+      <br>
     </div>
 </div>
 
@@ -43,6 +45,7 @@ Publications
       Dea-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
       Expert Systems with Applications 211: 118441, 2023 <br>
       <a href="https://doi.org/10.1016/j.eswa.2022.118441">[paper]</a>
+      <br>
     </div>
 </div>
 
@@ -53,5 +56,6 @@ Publications
       <b>Kang-Won Lee</b>, Seung-Chan Kim, Soo-Chul Lim <br>
       IEEE Sensors Journal 22.9: 8924-8932, 2022 <br>
       <a href="https://doi.org/10.1109/JSEN.2022.3163664">[paper]</a>
+      <br>
     </div>
 </div>
