@@ -59,3 +59,27 @@ Publications
       <br>
     </div>
 </div>
+
+<div style="overflow: hidden; clear: both;">
+    <img src="images\proprioception.jpg" alt="proprioception.jpg" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566"><b>Simple and Reliable Position Sense Assessment Under Different External Torques: Toward Developing a Post-Stroke Proprioception Evaluation Device</b></span> <br>
+      <b>Kang-Won Lee</b>, Sang Hoon Kang, Soo-Chul Lim <br>
+      IEEE Transactions on Neural Systems and Rehabilitation Engineering 30: 823-832, 2022 <br>
+      <a href="https://doi.org/10.1109/TNSRE.2022.3161948">[paper]</a>
+      <br>
+    </div>
+</div>
+
+<div style="overflow: hidden; clear: both;">
+    <img src="images\proprioception.jpg" alt="proprioception.jpg" style="float: left; margin-right: 10px; margin-bottom: 40px; width: 20%">
+    <div style="margin-left: 120px;">
+      <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
+      <b>Kang-Won Lee</b>, Dae-Kwan Ko, Soo-Chul Lim <br>
+      IEEE Robotics and Automation Letters 6(4): 6640-6646, 2021 <br>
+      International Conference on Intelligent Robots and Systems (IROS), 2021 <br>
+      <span style="color:#003566"><b>Oral Presentation</b></span> <br>
+      <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
+      <br>
+    </div>
+</div>
