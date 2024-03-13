@@ -32,7 +32,7 @@ Publications
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing</b></span> <br>
       Ying Yuan*, Haichuan Che*, Yuzhe Qin*, Binghao Huang, Zhao-Heng Yin, <b>Kang-Won Lee</b>, Yi Wu, Soo-Chul Lim, Xiaolong Wang <br>
-      International Conference on Robotics and Automation (ICRA), 2024 <br>
+      International Conference on Robotics and Automation <b>(ICRA)</b>, 2024 <br>
       <a href="https://arxiv.org/abs/2312.01853">[arXiv]</a> <a href="https://yingyuan0414.github.io/visuotactile/">[project page]</a>
       <br>
     </div>
