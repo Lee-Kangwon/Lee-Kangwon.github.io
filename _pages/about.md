@@ -42,7 +42,7 @@ Publications
     <img src="images\ESwA_force_estimation.jpg" alt="force_estimation" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%">
     <div style="margin-left: 120px;">
       <span style="color:#003566"><b>Vision-based interaction force estimation for robot grip motion without tactile/force sensor</b></span> <br>
-      Dea-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
+      Dae-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
       Expert Systems with Applications 211: 118441, 2023 <br>
       <a href="https://doi.org/10.1016/j.eswa.2022.118441">[paper]</a>
       <br>
