@@ -76,12 +76,26 @@ Publications
       <!-- <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%"> -->
       <img src="images\iros.avif" alt="iros_2021">
     </div>
-    <div style="margin-right: 10px">
+    <div style="width: 20%;">
       <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
       <b>Kang-Won Lee</b>, Dae-Kwan Ko, Soo-Chul Lim <br>
       IEEE Robotics and Automation Letters 6(4): 6640-6646, 2021 <br>
       International Conference on Intelligent Robots and Systems <b>(IROS)</b>, 2021 <span style="color:#d90429"><b>Oral Presentation</b></span> <br>
       <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
       <br>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+    <div style="width: 30%; margin-top: 10px;">
+        <img src="images\iros.avif" alt="iros_2021" style="width: 100%;">
+    </div>
+    <div style="width: 70%; margin-left: 20px;">
+        <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
+        <b>Kang-Won Lee</b>, Dae-Kwan Ko, Soo-Chul Lim <br>
+        IEEE Robotics and Automation Letters 6(4): 6640-6646, 2021 <br>
+        International Conference on Intelligent Robots and Systems <b>(IROS)</b>, 2021 <span style="color:#d90429"><b>Oral Presentation</b></span> <br>
+        <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
+        <br>
     </div>
 </div>
