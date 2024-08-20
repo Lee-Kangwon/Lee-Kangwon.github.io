@@ -71,9 +71,8 @@ Publications
     </div>
 </div>
 
-<div style="overflow: hidden; clear: both;">
+<!-- <div style="overflow: hidden; clear: both;">
     <div style="float:left; width: 20%; margin-top: 10px; margin-bottom: 40px">
-      <!-- <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%"> -->
       <img src="images\iros.avif" alt="iros_2021">
     </div>
     <div style="width: 20%;">
@@ -84,7 +83,7 @@ Publications
       <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
       <br>
     </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <div style="width: 30%; margin-top: 10px;">
