@@ -72,10 +72,10 @@ Publications
 </div>
 
 <div style="overflow: hidden; clear: both;">
-    <div class="image-box">
+    <div">
       <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%">
     </div>
-    <div style="margin-left: 120px;">
+    <div>
       <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
       <b>Kang-Won Lee</b>, Dae-Kwan Ko, Soo-Chul Lim <br>
       IEEE Robotics and Automation Letters 6(4): 6640-6646, 2021 <br>
