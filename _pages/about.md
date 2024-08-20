@@ -72,8 +72,9 @@ Publications
 </div>
 
 <div style="overflow: hidden; clear: both;">
-    <div>
-      <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%">
+    <div style="float: left; margin-top: 10px; margin-bottom: 40px">
+      <!-- <img src="images\iros.avif" alt="iros_2021" style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 40px; width: 20%"> -->
+      <img src="images\iros.avif" alt="iros_2021" style="width: 20%">
     </div>
     <div style="float: left; margin-right: 10px">
       <span style="color:#003566"><b>Toward Vision-Based High Sampling Interaction Force Estimation with Master Position and Orientation for Teleoperation</b></span> <br>
