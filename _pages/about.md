@@ -24,7 +24,7 @@ Publications
         <span style="color:#003566"><b>Latency-Free Driving Scene Prediction for On-Road Teledriving With Future-Image-Generation</b></span> <br>
         <b>Kang-Won Lee*</b>, Dae-Kwan Ko, Yong-Jun Kim, Jee-Hwan Ryu, Soo-Chul Lim <br>
         IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16676-16686, 2024 <br>
-        DOI: <a href="https://doi.org/10.1109/TITS.2024.3435481">[10.1109/TITS.2024.3435481] <br>
+        <!-- DOI: <a href="https://doi.org/10.1109/TITS.2024.3435481">[10.1109/TITS.2024.3435481] <br> -->
         <a href="https://ieeexplore.ieee.org/abstract/document/10624599">[Paper]</a> <a href="https://lee-kangwon.github.io/driving_scene/">[project page]</a> <a href="https://www.youtube.com/watch?v=JyXXZQ-SfLU">[video]</a>
         <br>
     </div>
@@ -39,7 +39,7 @@ Publications
         <span style="color:#003566"><b>DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity</b></span> <br>
         <b>Kang-Won Lee*</b>, Yuzhe Qin, Xiaolong Wang, Soo-Chul Lim <br>
         IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 10772-10779, 2024 <br>
-        DOI: <a href="https://doi.org/10.1109/LRA.2024.3478571">[10.1109/LRA.2024.3478571] <br>
+        <!-- DOI: <a href="https://doi.org/10.1109/LRA.2024.3478571">[10.1109/LRA.2024.3478571] <br> -->
         <a href="https://ieeexplore.ieee.org/document/10714461">[Paper]</a> <a href="https://lee-kangwon.github.io/dextouch/">[project page]</a> <a href="https://youtu.be/is0WZUo77yo?si=8fM31TdQpH7OawIk">[video]</a>
         <br>
     </div>
@@ -68,7 +68,7 @@ Publications
         <span style="color:#003566"><b>Vision-based interaction force estimation for robot grip motion without tactile/force sensor</b></span> <br>
         Dae-Kwan Ko, <b>Kang-Won Lee</b>, Dong Han Lee, Soo-Chul Lim <br>
         Expert Systems with Applications, vol. 211, pp. 118441, 2023 <br>
-        DOI: <a href="https://doi.org/10.1016/j.eswa.2022.118441">[10.1016/j.eswa.2022.118441] <br>
+        <!-- DOI: <a href="https://doi.org/10.1016/j.eswa.2022.118441">[10.1016/j.eswa.2022.118441] <br> -->
         <a href="https://doi.org/10.1016/j.eswa.2022.118441">[paper]</a>
         <br>
     </div>
@@ -83,7 +83,7 @@ Publications
         <span style="color:#003566"><b>DeepTouch: Enabling touch interaction in underwater environments by learning touch-induced inertial motions</b></span> <br>
         <b>Kang-Won Lee</b>, Seung-Chan Kim, Soo-Chul Lim <br>
         IEEE Sensors Journal, vol. 22, no. 9, pp. 8924-8932, 2022 <br>
-        DOI: <a href="https://doi.org/10.1109/JSEN.2022.3163664">[10.1109/JSEN.2022.3163664] <br>
+        <!-- DOI: <a href="https://doi.org/10.1109/JSEN.2022.3163664">[10.1109/JSEN.2022.3163664] <br> -->
         <a href="https://doi.org/10.1109/JSEN.2022.3163664">[paper]</a>
         <br>
     </div>
@@ -98,7 +98,7 @@ Publications
         <span style="color:#003566"><b>Simple and Reliable Position Sense Assessment Under Different External Torques: Toward Developing a Post-Stroke Proprioception Evaluation Device</b></span> <br>
         <b>Kang-Won Lee</b>, Sang Hoon Kang, Soo-Chul Lim <br>
         IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 30, pp. 823-832, 2022 <br>
-        DOI: <a href="https://doi.org/10.1109/TNSRE.2022.3161948">[10.1109/TNSRE.2022.3161948] <br>
+        <!-- DOI: <a href="https://doi.org/10.1109/TNSRE.2022.3161948">[10.1109/TNSRE.2022.3161948] <br> -->
         <a href="https://doi.org/10.1109/TNSRE.2022.3161948">[paper]</a>
         <br>
     </div>
@@ -115,7 +115,7 @@ Publications
         IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 6640-6646, 2021 <br>
         International Conference on Intelligent Robots and Systems <b>(IROS)</b>, 2021
         <span style="color:#d90429"><b>Oral Presentation</b></span> <br>
-        DOI: <a href="https://doi.org/10.1109/LRA.2021.3094848">[10.1109/LRA.2021.3094848] <br>
+        <!-- DOI: <a href="https://doi.org/10.1109/LRA.2021.3094848">[10.1109/LRA.2021.3094848] <br> -->
         <a href="https://doi.org/10.1109/LRA.2021.3094848">[paper]</a>
         <br>
     </div>
