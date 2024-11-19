@@ -23,7 +23,8 @@ Publications
     <div style="width: 75%; margin-left: 20px;">
         <span style="color:#003566"><b>Latency-Free Driving Scene Prediction for On-Road Teledriving With Future-Image-Generation</b></span> <br>
         <b>Kang-Won Lee*</b>, Dae-Kwan Ko, Yong-Jun Kim, Jee-Hwan Ryu, Soo-Chul Lim <br>
-        IEEE Transactions on Intelligent Transportation Systems, 2024 <br>
+        IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16676-16686, 2024 <br>
+        DOI: 10.1109/TITS.2024.3435481
         <a href="https://ieeexplore.ieee.org/abstract/document/10624599">[Paper]</a> <a href="https://lee-kangwon.github.io/driving_scene/">[project page]</a> <a href="https://www.youtube.com/watch?v=JyXXZQ-SfLU">[video]</a>
         <br>
     </div>
