@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate majoring in Mechanical Engineering at [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/). 
-I received Master of Science degree from the same university.
+I recived a Ph.D. majoring in Mechanical Engineering at [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/).
+I received bachelor's degree and master of science degree from the same university.
 
 My research interests lie in **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Human Robot Interaction**. My research goal is to develop a robotic system capable of performing complex and diverse tasks akin to humans, while remaining robust to changes in the surrounding environment.
 
