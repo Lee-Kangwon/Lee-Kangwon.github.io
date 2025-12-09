@@ -8,13 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I recived a Ph.D. majoring in Mechanical Engineering at [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/).
-I received bachelor's degree and master of science degree from the same university.
+I am a postdoctoral researcher at Dongguk University, conducting research on physical AI robotics system that naturally interact with the environment and humans. I focus on approaches that enable robots to leverage multimodal physical information for interaction.
+My research interests lie in **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Physical AI**. My research goal is to develop robotic systems capable of performing complex and diverse tasks akin to humans, while remaining robust to changes in the surrounding environment.
 
-My research interests lie in **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Human Robot Interaction**. My research goal is to develop a robotic system capable of performing complex and diverse tasks akin to humans, while remaining robust to changes in the surrounding environment.
+I received my Ph.D. majoring in Mechanical Engineering from [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/). I also obtained my B.S. and M.S. from the same university.
+I worked at UC San Diego as a visiting graduate student, collaborating with Professer [Xiaolong Wang](https://xiaolonw.github.io/) in 2023.
 
 Publications
 ======
+<!-- Project: HPPL -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+    <div style="width: 25%; margin-top: 10px;">
+        <img src="images\hppl.avif" alt="HPPL" style="width: 100%;">
+    </div>
+    <div style="width: 75%; margin-left: 20px;">
+        <span style="color:#003566"><b>Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</b></span> <br>
+        <b>Kang-Won Lee*</b>, Jung-Woo Lee, Seongyong Kim, Soo-Chul Lim <br>
+        <i>Mathematics, 13(22), 3585, 2025</i> <br>
+        DOI: <a href="https://doi.org/10.3390/math13223585">[10.3390/math13223585]</a> <br>
+        <a href="https://doi.org/10.3390/math13223585">[Paper]</a> 
+        <a href="https://lee-kangwon.github.io/HPPL/">[project page]</a> 
+        <a href="https://youtu.be/7LG9E63pzbk?si=Kx5WsdDbpum5NF6m">[video]</a>
+        <br>
+    </div>
+</div>
+
 <!-- Project: Driving Scene -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <div style="width: 25%; margin-top: 10px;">
