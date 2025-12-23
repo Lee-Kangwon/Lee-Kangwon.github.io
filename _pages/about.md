@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Dongguk University, conducting research on physical AI robotics system that naturally interact with the environment and humans. I focus on approaches that enable robots to leverage multimodal physical information for interaction.
+I am a senior researcher in KIMM (Korea Institute of Machinery & Materials), conducting research on physical AI robotics system that naturally interact with the environment and humans. I focus on approaches that enable robots to leverage multimodal physical information for interaction.
 My research interests lie in **Robotics**, **Robot Learning**, **Reinforcement Learning**, and **Physical AI**. My research goal is to develop robotic systems capable of performing complex and diverse tasks akin to humans, while remaining robust to changes in the surrounding environment.
 
 I received my Ph.D. majoring in Mechanical Engineering from [Dongguk University](https://www.dongguk.edu/), Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/). I also obtained my B.S. and M.S. from the same university.
